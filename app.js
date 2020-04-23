@@ -19,5 +19,4 @@ function myFunction() {
     });
 };
 
-myFunction();
 setInterval(myFunction, 28800000);
